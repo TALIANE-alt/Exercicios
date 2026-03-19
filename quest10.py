@@ -1,0 +1,5 @@
+print('Qual a área de um circulo em m², cujo raio é 50m?')
+raio = float(50)
+pi = float(3.14)
+area = float(pi * (raio ** 2))
+print("A area será aproximadamente:" , area, 'm²')
